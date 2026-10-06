@@ -1,105 +1,55 @@
-# 👋 Olá, eu sou Lucas Caetano
+# Mini Estoque 📦
 
-### Desenvolvedor em formação | React • React Native • JavaScript
+Projeto de estudo desenvolvido para praticar **React Native com Expo e TypeScript**, aplicando na prática conceitos fundamentais de desenvolvimento mobile.
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em aplicações reais.
+A ideia é construir uma pequena aplicação de estoque enquanto avanço nos estudos, utilizando componentes reutilizáveis, navegação e organização de telas.
 
-Atualmente foco meus estudos e projetos em **desenvolvimento web e mobile**, principalmente com **React e React Native + Expo**.
+## ✨ Funcionalidades
 
-Gosto de aprender construindo: meus principais projetos envolvem sistemas de gestão, aplicativos mobile e produtos SaaS.
+- 🔎 Busca de produtos
+- 🏷️ Filtro por categoria
+- 📦 Listagem de produtos
+- 💰 Exibição de preços
+- 📊 Controle inicial de estoque
+- 🧩 Componentes reutilizáveis
+- 📱 Interface mobile
 
----
+## 🛠️ Tecnologias
 
-## 🚀 Tecnologias
-
-### Front-end
-
-- JavaScript
-- TypeScript
-- React
 - React Native
 - Expo
-- Vite
-- Tailwind CSS
-
-### Backend & Dados
-
-- Supabase
-- PostgreSQL
-- REST APIs
-- AsyncStorage
-
-### Ferramentas
-
-- Git
-- GitHub
-- VS Code
-- Figma
-
----
-
-## 📌 Projetos em destaque
-
-### 🌸 BeautyStock
-
-**Sistema SaaS de gestão para revendedoras de perfumes, maquiagem e cosméticos.**
-
-Projeto focado em controle de estoque, vendas, clientes, valores a receber, catálogo e indicadores de negócio.
-
-**Tecnologias:** React, Vite, Tailwind CSS, Supabase, PostgreSQL, PWA.
-
-🔗 [Ver projeto](https://github.com/theluquinhass/Beautystock)
-
----
-
-### 📱 JBrasil — App de Conveniência
-
-Aplicativo mobile desenvolvido para gerenciamento de uma loja de conveniência.
-
-Possui funcionalidades como **PDV, estoque, vendas, caixa, conferência de produtos, persistência local e geração de relatórios em PDF**.
-
-**Tecnologias:** React Native, Expo, Expo Router, TypeScript e AsyncStorage.
-
-🔗 [Ver projeto](https://github.com/theluquinhass/App-Conveni-ncia-Jbrasil-)
-
----
-
-### 🎮 Killword
-
-Projeto mobile desenvolvido com React Native e Expo, criado como parte da minha evolução no desenvolvimento de aplicativos.
-
-**Tecnologias:** React Native, Expo, TypeScript e AsyncStorage.
-
-🔗 [Ver projeto](https://github.com/theluquinhass/Killword)
-
----
-
-## 📚 Atualmente estudando
-
-- React e React Native
+- Expo Router
 - TypeScript
-- Desenvolvimento Full Stack
-- Bancos de dados e APIs
-- Arquitetura de aplicações
-- Git e GitHub
-- Boas práticas de desenvolvimento
 
----
+## 🧠 Conceitos praticados
+
+- Componentes e props
+- TypeScript
+- map() para renderização de listas
+- Pressable e interação do usuário
+- TextInput e busca
+- Navegação com Expo Router
+- Rotas e layouts
+- Organização de componentes
+- Estado e filtros
+
+## 🚀 Como executar
+
+    git clone https://github.com/theluquinhass/mini-estoque.git
+    cd mini-estoque
+    npm install
+    npx expo start
+
+Depois, abra no Expo Go ou em um emulador compatível.
 
 ## 🎯 Objetivo
 
-Estou construindo minha experiência através de projetos práticos e buscando minha oportunidade profissional na área de desenvolvimento de software.
+Este projeto faz parte da minha evolução prática em **React Native**.
 
-Meu objetivo é continuar evoluindo como desenvolvedor e construir aplicações que resolvam problemas reais.
+A proposta é começar com uma aplicação simples e evoluí-la gradualmente conforme novos conceitos são estudados.
 
----
+## 📌 Status
 
-## 📫 Contato
+**Projeto de estudo em desenvolvimento.**
 
-- GitHub: [@theluquinhass](https://github.com/theluquinhass)
-- LinkedIn: **adicione seu LinkedIn aqui**
-- Portfólio: **adicione seu portfólio aqui**
-
----
-
-> **Aprendendo, construindo e evoluindo um projeto de cada vez. 🚀**
+Novas funcionalidades serão adicionadas conforme meu aprendizado em React Native e TypeScript.
