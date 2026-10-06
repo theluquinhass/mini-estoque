@@ -1,56 +1,105 @@
-# Welcome to your Expo app 👋
+# 👋 Olá, eu sou Lucas Caetano
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Desenvolvedor em formação | React • React Native • JavaScript
 
-## Get started
+Sou desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em aplicações reais.
 
-1. Install dependencies
+Atualmente foco meus estudos e projetos em **desenvolvimento web e mobile**, principalmente com **React e React Native + Expo**.
 
-   ```bash
-   npm install
-   ```
+Gosto de aprender construindo: meus principais projetos envolvem sistemas de gestão, aplicativos mobile e produtos SaaS.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Tecnologias
 
-In the output, you'll find options to open the app in a
+### Front-end
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Expo
+- Vite
+- Tailwind CSS
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Backend & Dados
 
-## Get a fresh project
+- Supabase
+- PostgreSQL
+- REST APIs
+- AsyncStorage
 
-When you're ready, run:
+### Ferramentas
 
-```bash
-npm run reset-project
-```
+- Git
+- GitHub
+- VS Code
+- Figma
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-### Other setup steps
+## 📌 Projetos em destaque
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+### 🌸 BeautyStock
 
-## Learn more
+**Sistema SaaS de gestão para revendedoras de perfumes, maquiagem e cosméticos.**
 
-To learn more about developing your project with Expo, look at the following resources:
+Projeto focado em controle de estoque, vendas, clientes, valores a receber, catálogo e indicadores de negócio.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+**Tecnologias:** React, Vite, Tailwind CSS, Supabase, PostgreSQL, PWA.
 
-## Join the community
+🔗 [Ver projeto](https://github.com/theluquinhass/Beautystock)
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### 📱 JBrasil — App de Conveniência
+
+Aplicativo mobile desenvolvido para gerenciamento de uma loja de conveniência.
+
+Possui funcionalidades como **PDV, estoque, vendas, caixa, conferência de produtos, persistência local e geração de relatórios em PDF**.
+
+**Tecnologias:** React Native, Expo, Expo Router, TypeScript e AsyncStorage.
+
+🔗 [Ver projeto](https://github.com/theluquinhass/App-Conveni-ncia-Jbrasil-)
+
+---
+
+### 🎮 Killword
+
+Projeto mobile desenvolvido com React Native e Expo, criado como parte da minha evolução no desenvolvimento de aplicativos.
+
+**Tecnologias:** React Native, Expo, TypeScript e AsyncStorage.
+
+🔗 [Ver projeto](https://github.com/theluquinhass/Killword)
+
+---
+
+## 📚 Atualmente estudando
+
+- React e React Native
+- TypeScript
+- Desenvolvimento Full Stack
+- Bancos de dados e APIs
+- Arquitetura de aplicações
+- Git e GitHub
+- Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivo
+
+Estou construindo minha experiência através de projetos práticos e buscando minha oportunidade profissional na área de desenvolvimento de software.
+
+Meu objetivo é continuar evoluindo como desenvolvedor e construir aplicações que resolvam problemas reais.
+
+---
+
+## 📫 Contato
+
+- GitHub: [@theluquinhass](https://github.com/theluquinhass)
+- LinkedIn: **adicione seu LinkedIn aqui**
+- Portfólio: **adicione seu portfólio aqui**
+
+---
+
+> **Aprendendo, construindo e evoluindo um projeto de cada vez. 🚀**
